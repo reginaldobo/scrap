@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from getpass import getpass
 
+#Adjust URL
 site = input("Enter a url:\n")
 
 folder = input("Enter a output folder:\n")
